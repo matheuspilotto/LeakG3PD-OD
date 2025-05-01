@@ -15,17 +15,17 @@ In order to do that:
 	- once leak nodes don't exist in System Model, they were referred by their distance to leak link start nodes and such information was saved in "Leaks" folder
 	- such dataset was named LeakG3PD-OD
 
-<a href="https://drive.google.com/file/d/1uqXtLjkE4-EaQsyLDi9JkPYqlj9P8eB9/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1uqXtLjkE4-EaQsyLDi9JkPYqlj9P8eB9" width="600" height="240"/><a>
+<a href="https://drive.google.com/file/d/1uqXtLjkE4-EaQsyLDi9JkPYqlj9P8eB9/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1uqXtLjkE4-EaQsyLDi9JkPYqlj9P8eB9" width="400" height="500"/><a>
 
-<a href="https://drive.google.com/file/d/12qLtSa-icrDjpb4kU7jZmr8Cmjl2fF_m/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=12qLtSa-icrDjpb4kU7jZmr8Cmjl2fF_m" width="600" height="240"/><a>
+<a href="https://drive.google.com/file/d/12qLtSa-icrDjpb4kU7jZmr8Cmjl2fF_m/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=12qLtSa-icrDjpb4kU7jZmr8Cmjl2fF_m" width="400" height="500"/><a>
 
-<a href="https://drive.google.com/file/d/1Qvv4LpSfCSsUh4wfgxwh1yvqybMEA16L/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1Qvv4LpSfCSsUh4wfgxwh1yvqybMEA16L" width="600" height="240"/><a>
+<a href="https://drive.google.com/file/d/1Qvv4LpSfCSsUh4wfgxwh1yvqybMEA16L/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1Qvv4LpSfCSsUh4wfgxwh1yvqybMEA16L"  width="400" height="500"/><a>
 
 Using LeakG3PD-OD dataset, leak detection and localization algorithms were developed.
 
-<a href="https://drive.google.com/file/d/1eBRR6iGC-KdYXjKKbBh7RJcjAjmEARBc/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1eBRR6iGC-KdYXjKKbBh7RJcjAjmEARBc" width="600" height="240"/><a>
+<a href="https://drive.google.com/file/d/1eBRR6iGC-KdYXjKKbBh7RJcjAjmEARBc/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1eBRR6iGC-KdYXjKKbBh7RJcjAjmEARBc" width="400" height="500"/><a>
 
-<a href="https://drive.google.com/file/d/1t6ZIBgyPUxN1BXT7EcNGbzofNs7PyMTF/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1t6ZIBgyPUxN1BXT7EcNGbzofNs7PyMTF" width="600" height="240"/><a>
+<a href="https://drive.google.com/file/d/1t6ZIBgyPUxN1BXT7EcNGbzofNs7PyMTF/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1t6ZIBgyPUxN1BXT7EcNGbzofNs7PyMTF" width="400" height="500"/><a>
 
 The results showed that both algorithms are useful, but some adjusts are necessary in leak detection functional parameters and that LeakG3PD pipe parameter uncertainties are excessive reducing the localization performance.	
 

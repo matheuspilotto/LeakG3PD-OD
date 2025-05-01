@@ -21,7 +21,7 @@ Using LeakG3PD-OD dataset, leak detection and localization algorithms were devel
 
 <a href="https://drive.google.com/file/d/1eb-sIfHT5f7G2bpspJyAlr__QGbKUl5D/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=1eb-sIfHT5f7G2bpspJyAlr__QGbKUl5D" width="600" height="450"/><a>
 
-The results showed that both algorithms are useful, but some adjusts are necessary in leak detection functional parameters and LeakG3PD pipe parameter uncertainties are excessive reducing the localization performance.	
+The results showed that both algorithms are useful, but some adjusts are necessary in leak detection functional parameters and LeakG3PD pipe parameter uncertainties are excessive, reducing the localization performance.	
 
 # Instructions for reproducibility
 

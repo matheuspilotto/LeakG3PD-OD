@@ -15,7 +15,7 @@ In order to do that:
 	- once leak nodes don't exist in System Model, they were referred by their distance to leak link start nodes and such information was saved in "Leaks" folder
 	- such dataset was named LeakG3PD-OD
 
-<a href="https://drive.google.com/file/d/11TsQxxDnseKXumhf9poadDR5KyaXLcK3/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=11TsQxxDnseKXumhf9poadDR5KyaXLcK3" width="1200" height="400"/><a>
+<a href="https://drive.google.com/file/d/11TsQxxDnseKXumhf9poadDR5KyaXLcK3/view?usp=sharing"><img src="https://drive.google.com/uc?export=view&id=11TsQxxDnseKXumhf9poadDR5KyaXLcK3" width="1200" height="500"/><a>
 
 Using LeakG3PD-OD dataset, leak detection and localization algorithms were developed.
 

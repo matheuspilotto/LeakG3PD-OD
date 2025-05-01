@@ -26,15 +26,15 @@ The results showed that both algorithms are useful, but some adjusts are necessa
 # Instructions for reproducibility
 
 In any case, to run Python programs:
-1. Download Anaconda3
-2. Install VS Code
-3. conda install conda-forge::wntr
+- Download Anaconda3
+- Install VS Code
+- conda install conda-forge::wntr
 
 If you wish to generate LeakG3PD-OD from scratch:
-4. Download and unzip [LeakG3PD Epanet Net 3 dataset](https://drive.google.com/drive/folders/1HM2xI9VpC4us7rFX4IuXXCoHDrnWfC17?usp=sharing) folder into a "LeakG3PD-OD Evaluation" folder
-5. Run python source file ODDatasetGenerator.py
-6. Rename the dataset folder as EPANET Net 3_OD
+- Download and unzip [LeakG3PD Epanet Net 3 dataset](https://drive.google.com/drive/folders/1HM2xI9VpC4us7rFX4IuXXCoHDrnWfC17?usp=sharing) folder into a "LeakG3PD-OD Evaluation" folder
+- Run python source file ODDatasetGenerator.py
+- Rename the dataset folder as EPANET Net 3_OD
 
 If you just wish to run the LDL program:
-7. Download and unzip  [LeakG3PD-OD Epanet Net 3 dataset](https://drive.google.com/drive/folders/11qlW5CKUmyL0-IXvqJ7_YtzUEqelhG63?usp=sharing)
-8. Run python source file ODLeakDetectionAndLocalization.py
+- Download and unzip  [LeakG3PD-OD Epanet Net 3 dataset](https://drive.google.com/drive/folders/11qlW5CKUmyL0-IXvqJ7_YtzUEqelhG63?usp=sharing)
+- Run python source file ODLeakDetectionAndLocalization.py

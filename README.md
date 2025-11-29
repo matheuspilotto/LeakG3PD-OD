@@ -34,6 +34,7 @@ If you wish to generate LeakG3PD-OD from scratch:
 - Download and unzip [LeakG3PD Epanet Net 3 dataset](https://drive.google.com/drive/folders/1HM2xI9VpC4us7rFX4IuXXCoHDrnWfC17?usp=sharing) folder into a "LeakG3PD-OD Evaluation" folder
 - Paste and run python source file ODDatasetGenerator.py in "LeakG3PD-OD Evaluation" folder
 - Rename the dataset folder as EPANET Net 3_OD
+- Note that your generated dataset will be different from the one available in this repository (see the link in the next step).
 
 If you just wish to run the LDL program:
 - Download and unzip  [LeakG3PD-OD Epanet Net 3 dataset](https://drive.google.com/drive/folders/11qlW5CKUmyL0-IXvqJ7_YtzUEqelhG63?usp=sharing) folder into a "LeakG3PD-OD Evaluation" folder
